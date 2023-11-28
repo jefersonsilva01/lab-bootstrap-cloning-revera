@@ -11,3 +11,17 @@
 .grayscale {
   filter: grayscale(100%);
 }
+
+.icons {
+  border: 5px solid #fff;
+  border-radius: 35px;
+  width: 70px;
+  height: 70px;
+  display: block;
+}
+
+.icons svg {
+  position: relative;
+  top: 25%;
+  left: 25%;
+}
